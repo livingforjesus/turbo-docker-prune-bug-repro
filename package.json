@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "turbo": "2.8.10",
+    "turbo": "canary",
     "bun-types": "^1.3.9",
     "typescript": "^5.9.3",
     "undici-types": "^7.18.2"
